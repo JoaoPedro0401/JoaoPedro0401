@@ -36,7 +36,7 @@
     <input type="text" id="nome" name="nome" placeholder="Digite seu nome">
     <br>
     <label for="mensagem">Mensagem:</label> 
-    <textarea id="mensagem" name="mensagem" rows="4" cols="50"></textarea>
+    <textarea id="Mensagem" name="Mensagem" rows="4" cols="50"></textarea>
     <br>
     <button type="submit">Enviar</button>
 </form>
