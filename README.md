@@ -14,11 +14,15 @@
 <table>
   <tr>
      <th>Cabeçalho da Tabela</th>
-     </th>Cabeçalho da Tabela</th>
+     <th>Cabeçalho da Tabela</th>
+  </tr>
+  <tr> 
+      <td>Célula da Tabela</td>
+      <td>Cédula da Tabela</td>
   </tr>
   <tr>
     <td>Célula da tabela</td>
-    <Td>Célula da Tabela</Td>
+    <td>Célula da Tabela</td>
   </tr>
 </table>
 
@@ -29,7 +33,7 @@
 
 <form>
     <label for="nome">Nome:</label>
-    <input type="text" id="nome" name="nome" placeholder="digite seu nome">
+    <input type="text" id="nome" name="nome" placeholder="Digite seu nome">
     <br>
     <label for="mensagem">Mensagem:</label> 
     <textarea id="mensagem" name="mensagem" rows="4" cols="50"></textarea>
@@ -38,9 +42,9 @@
 </form>
       
   <select>
-     <option value="opção1">Opção1</option>
-     <option value="opção2">Opção2</option>
-     <option value="opção3">Opção3</option>
+     <option value="opcao1">Opção 1</option>
+     <option value="opcao2">Opção 2</option>
+     <option value="opcao3">Opção 3</option>
   </select>
 </body>
       
