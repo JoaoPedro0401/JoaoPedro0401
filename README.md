@@ -32,7 +32,7 @@
     <input type="text" id="nome" name="nome" placeholder="digite seu nome">
     <br>
     <label for="mensagem">Mensagem:>/label> 
-    <textarea>for="mensagem name="mensagem" rows="4" cols="50"></textarea>
+    <textarea for="mensagem name="mensagem" rows="4" cols="50"></textarea>
     <br>
     <button type="submit">Enviar</button>
 </form>
