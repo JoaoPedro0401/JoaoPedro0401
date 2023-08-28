@@ -31,11 +31,12 @@
     <label for="nome">Nome:</label>
     <input type="text" id="nome" name="nome" placeholder="digite seu nome">
     <br>
-    <label for="mensagem">Mensagem:>/label> 
+    <label for="mensagem">Mensagem:</label> 
     <textarea id="mensagem" name="mensagem" rows="4" cols="50"></textarea>
     <br>
     <button type="submit">Enviar</button>
 </form>
+      
   <select>
      <option value="opção1">Opção1</option>
      <option value="opção2">Opção2</option>
